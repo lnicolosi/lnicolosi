@@ -21,7 +21,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lnicolosi/lnicolosi/output/snake.svg" alt="Snake animation" />
 
 ###
 
